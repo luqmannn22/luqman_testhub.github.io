@@ -1,2 +1,2 @@
-# luqman_testhub.github.io
+# luqmanstesthub.github.io
 Luqman's test hub!
